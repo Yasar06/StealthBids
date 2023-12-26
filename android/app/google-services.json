@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402581794004",
+    "project_id": "stealthbids-b0ef9",
+    "storage_bucket": "stealthbids-b0ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402581794004:android:b0a531b748d002ee2ddf41",
+        "android_client_info": {
+          "package_name": "com.example.stealthbids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPM7hAVVg1QdcO872Dn3XzDEkLm6s1PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402581794004:android:a14ef5209c90e2762ddf41",
+        "android_client_info": {
+          "package_name": "com.nea.stealthbids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPM7hAVVg1QdcO872Dn3XzDEkLm6s1PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
